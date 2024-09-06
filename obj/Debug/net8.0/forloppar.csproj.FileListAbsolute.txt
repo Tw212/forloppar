@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\forloppar\bin\Debug\net8.0\forloppar.exe
+C:\Users\Admin\Documents\GitHub\forloppar\bin\Debug\net8.0\forloppar.deps.json
+C:\Users\Admin\Documents\GitHub\forloppar\bin\Debug\net8.0\forloppar.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\forloppar\bin\Debug\net8.0\forloppar.dll
+C:\Users\Admin\Documents\GitHub\forloppar\bin\Debug\net8.0\forloppar.pdb
+C:\Users\Admin\Documents\GitHub\forloppar\obj\Debug\net8.0\forloppar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\forloppar\obj\Debug\net8.0\forloppar.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\forloppar\obj\Debug\net8.0\forloppar.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\forloppar\obj\Debug\net8.0\forloppar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\forloppar\obj\Debug\net8.0\forloppar.dll
+C:\Users\Admin\Documents\GitHub\forloppar\obj\Debug\net8.0\refint\forloppar.dll
+C:\Users\Admin\Documents\GitHub\forloppar\obj\Debug\net8.0\forloppar.pdb
+C:\Users\Admin\Documents\GitHub\forloppar\obj\Debug\net8.0\forloppar.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\forloppar\obj\Debug\net8.0\ref\forloppar.dll
