@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\GitHub\forloppar\obj\Debug\net8.0\refint\forloppar.dll
 C:\Users\Admin\Documents\GitHub\forloppar\obj\Debug\net8.0\forloppar.pdb
 C:\Users\Admin\Documents\GitHub\forloppar\obj\Debug\net8.0\forloppar.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\forloppar\obj\Debug\net8.0\ref\forloppar.dll
+C:\Users\Admin\Documents\GitHub\forloppar\obj\Debug\net8.0\forloppar.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("forloppar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac2bf19466274b0e93e2a13482c1752101ba52f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3420c97b43b39a47be87e7356890d553cea6fbbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("forloppar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("forloppar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
